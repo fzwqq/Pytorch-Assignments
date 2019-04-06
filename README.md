@@ -48,3 +48,12 @@
 
 #### 6. PyTorch基础概念 
 
+详情见:
+
+[WHAT IS PYTORCH.ipynb](https://github.com/fzwqq/Pytorch-Assignments/blob/master/WHAT%20IS%20PYTORCH.ipynb)
+
+### 7. 参考文献
+
+1. https://zh.wikipedia.org/wiki/PyTorch 
+2. https://pytorch.org/get-started/locally/
+3. https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html#sphx-glr-beginner-blitz-tensor-tutorial-py
